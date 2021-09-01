@@ -56,6 +56,8 @@ public class ArrayInitializing {
 //		System.out.println(strArr[4]);
 		System.out.println(intArr[-1]);
 		
+		//testing git
+		
 	}
 
 }
