@@ -1,7 +1,5 @@
 package basics;
 
-import java.util.Scanner;
-
 public class ExercisePrimeNumber {
 
 	public void findPrimeNumber() {

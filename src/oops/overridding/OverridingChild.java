@@ -2,18 +2,22 @@ package oops.overridding;
 
 public class OverridingChild extends OverridingParent{
 
+	@Override
 	public void get(int b) {
 		System.out.println("Iam a int method in child class");
 	}
 	
+	@Override
 	public void get(String a) {
 		System.out.println("Iam a String method in child class");
 	}
 	
+	@Override
 	public void buy(int b,String a) {
 		System.out.println("Iam a int,String method in child Class");
 	}
 	
+	@Override
 	public void sell() {
 		System.out.println("Iam a method without parameter in child Class");
 	}

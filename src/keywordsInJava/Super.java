@@ -19,6 +19,7 @@ public class Super extends ParentSuper{
 	int a = 20;
 	String str = "Sathya";
 	
+	@Override
 	public void method1() {
 		System.out.println("I am child class method1");
 	}

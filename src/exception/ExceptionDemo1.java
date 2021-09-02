@@ -1,8 +1,5 @@
 package exception;
 
-import java.io.IOException;
-import java.sql.SQLException;
-
 //* Error - If error happens, execution will stop. Errors should not be handled, it should be fixed.  
 //		* Errors can be runtime error, or compile time error.
 //		* Complile time error - if we do not follow java coding standards we get compile time error. 
@@ -14,7 +11,7 @@ import java.sql.SQLException;
 //			* trying to get string value from a numeric cell of an excel 
 
 //* Exception - An exception is an unwanted or unexpected event, which occurs during the execution of a program; 
-//* i.e at run time, that disrupts the normal flow of the program’s instructions.
+//* i.e at run time, that disrupts the normal flow of the programï¿½s instructions.
 //		* If Exception is not handled, program will not continue.
 //		* Exception needs to handled. So that, other line of codes will execute as usual
 //		* To handle an exception, we use try and catch blocks

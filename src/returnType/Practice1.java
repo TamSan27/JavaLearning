@@ -2,7 +2,7 @@ package returnType;
 
 //* Whenever we use a return type, store the value in a variable and use that variable wherever we want to use the method.
 
-import java.io.IOException;
+
 
 public class Practice1 {
 	int amount = 10;

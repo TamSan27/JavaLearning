@@ -2,6 +2,7 @@ package keywordsInJava;
 
 public class ThisChild extends This{
 	
+	@Override
 	public void method3() {
 		System.out.println("I am method 3 from child class");
 	}

@@ -2,10 +2,12 @@ package keywordsInJava;
 
 public class FinalWithMethod extends Parent {
 	
+	@Override
 	public void method() {
 		System.out.println("This is a method in child class");
 	}
 	
+	@Override
 	public void method1() {
 		System.out.println("This is a method1 in child class");
 	}

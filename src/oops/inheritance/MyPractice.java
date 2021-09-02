@@ -49,7 +49,7 @@ public class MyPractice extends SuperClass {
         
         SuperClass s1 = new MyPractice();
         s1.method1();
-        s1.method2();
+        SuperClass.method2();
         
 	}
 
